@@ -92,7 +92,7 @@ docs.innerHTML=`
 </ul>
 <p>will all be added, so stay tuned</p>
 <h2>Developers</h2>
-<p>This code is available on <a href="#">GitHub</a>, if you want to be part of this project you can fork the code and make changes that will be added to the game.<br> Your opinions are much welcomed</p>
+<p>This code is available on <a href="https://github.com/Victor-Evogor/Checkers">GitHub</a>, if you want to be part of this project you can fork the code and make changes that will be added to the game.<br> Your opinions are much welcomed</p>
 </div>
 `;
 credits.innerHTML=`
